@@ -1,2 +1,2 @@
 # cursonodeessential
-ejercicios del curso de lynda de node escential
+ejercicios del curso de lynda de node essential training
